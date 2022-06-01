@@ -7,3 +7,4 @@ Updates made on GitHub main before rebase
 ## Repository More info
 
 Updates to create problematic changes
+Made some more changes for the tag lesson

@@ -2,6 +2,4 @@
 
 This is a really awesome website
 
-New edit for update-readme branch
-
-Another update
+Updates made on GitHub main before rebase

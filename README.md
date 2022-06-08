@@ -8,3 +8,7 @@ Updates made on GitHub main before rebase
 
 Updates to create problematic changes
 Made some more changes for the tag lesson
+
+## Getting Started
+
+To get started with this project, just `clone` this repository. 
